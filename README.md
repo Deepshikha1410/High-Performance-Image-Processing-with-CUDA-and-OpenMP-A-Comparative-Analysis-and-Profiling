@@ -1,0 +1,2 @@
+# High-Performance-Image-Processing-with-CUDA-and-OpenMP-A-Comparative-Analysis-and-Profiling
+This project aims to implement and evaluate various image processing algorithms using CUDA for GPU acceleration, OpenMP for multi-core CPU parallelism, and standard C for baseline performance. The primary goal is to assess the efficiency and effectiveness of each approach through detailed profiling and performance analysis
