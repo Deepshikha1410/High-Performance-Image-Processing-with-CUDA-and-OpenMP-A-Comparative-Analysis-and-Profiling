@@ -92,7 +92,6 @@ b. Parallel Processing
 
 CUDA: Utilize GPU kernels for operations that benefit from high parallelism. Each image processing function will have a corresponding CUDA kernel to handle computations on the GPU.
 OpenMP: Use CPU threads to parallelize tasks that are less suitable for GPU acceleration or to complement CUDA implementations.
-c. Main Application
 
-Design a command-line interface or graphical user interface (GUI) for user input and output.
+c. Main Application
 Integrate all image processing functions, ensuring proper memory management and error handling.
